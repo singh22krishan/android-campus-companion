@@ -1,5 +1,6 @@
 package com.krishansingh.campuscompanion
 
+import com.krishansingh.campuscompanion.validation.Validators
 import org.junit.Assert.assertFalse
 import org.junit.Assert.assertTrue
 import org.junit.Test
